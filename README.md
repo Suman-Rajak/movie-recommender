@@ -4,8 +4,8 @@
 
 A content-based movie recommender. You pick a movie, and the app shows similar movies based on their plot, tagline, genres and keywords (TF-IDF + cosine similarity).
 
-**Live app:** ADD-YOUR-RENDER-LINK-HERE
-**GitHub repo:** ADD-YOUR-GITHUB-REPO-LINK-HERE
+**Live app:** streamlit run app.py --server.port $PORT --server.address 0.0.0.0
+**GitHub repo:** https://github.com/Suman-Rajak/movie-recommender
 
 ## Dataset
 
